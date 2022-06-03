@@ -19,5 +19,3 @@ dependencies:
 - hvplot
 - bokeh
 - holoviews
-- pip:
-  - streamlit
